@@ -32,3 +32,6 @@ then
 else
  echo "-n $a : string length is zero"
 fi
+echo "$a = $b : a is equal to b"
+else
+ echo "$a != $b: a is not equal to b"
