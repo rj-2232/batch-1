@@ -36,3 +36,10 @@ fi
 
 echo "I have changed this branch"
 
+
+read b
+if [ $a == $b ]
+then
+ echo "a is equal to b"
+elif [ $a -gt $b ]
+then
