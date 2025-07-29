@@ -24,6 +24,14 @@ fi
 echo "I have changed this branch"
 echo "I have changed this branch"
 
+if [ $a == $b ]
+then
+ echo "a is equal to b"
+elif [ $a -gt $b ]
+then
+ echo "a is greater than b"
+elif [ 
+
 fi
 
 echo "I have changed this branch"
