@@ -8,5 +8,4 @@ echo "batch"
 echo "hello"
 echo "this is for fix'12345'"
 echo "hii"
-echo "We are trying this practical from linux EC2"
-echo "We are from batch-25 and learning git/gihub"
+
